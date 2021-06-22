@@ -27,14 +27,14 @@ function App() {
             "yarn start"
             <ul>
               <li>
-                Serve React.js content and run Tauri on http://localhost:3001
+                Serve React.ts content and run Tauri on http://localhost:3001
               </li>
             </ul>
           </li>
           <li>
             "yarn start:server"
             <ul>
-              <li>Start React.js server without starting Tauri</li>
+              <li>Start React.ts server without starting Tauri</li>
             </ul>
           </li>
           <li>
