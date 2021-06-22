@@ -16,6 +16,10 @@ This is a simple setup to get started with React and Tauri in Typescript. If you
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the typescript template, thus if you are familiar with most React.ts apps, you should have a foothold.
 
+# Notes
+
+Please note that the initial build and packaging take much longer than normal.
+
 # Getting Started
 
 Ensure that you have visited [Tauri's](https://tauri.studio/en/docs/getting-started/intro) website and installed the following:
