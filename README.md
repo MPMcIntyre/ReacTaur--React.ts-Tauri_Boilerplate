@@ -33,51 +33,51 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-(React and Tauri) Runs React and Tauri concurrently in development mode.\
+(React and Tauri) Runs React and Tauri concurrently in development mode.
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ### `yarn start:server`
 
-(React) Runs React in development mode.\
+(React) Runs React in development mode.
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ### `yarn start:tauri`
 
-(Tauri) Runs Tauri in development mode on [http://localhost:3001](http://localhost:3001).\
+(Tauri) Runs Tauri in development mode on [http://localhost:3001](http://localhost:3001).
 
 ### `yarn build`
 
-(React) Builds the app for production to the `./build/` folder.\
+(React) Builds the app for production to the `./build/` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.\
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 This does NOT include Tauri!
 
 ### `yarn package`
 
-(React and Tauri) Runs the React build command then builds the Tauri app with the contents found in the './build/' folder.\
+(React and Tauri) Runs the React build command then builds the Tauri app with the contents found in the './build/' folder.
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
 
 ### `yarn package:tauri`
 
-(Tauri) Builds the Tauri app with the contents found in the './build/' folder.\
+(Tauri) Builds the Tauri app with the contents found in the './build/' folder.
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
 
 ### `yarn tauri`
 
-(Tauri) Interfaces with the Tauri CLI (@tauri-apps/cli package).\
+(Tauri) Interfaces with the Tauri CLI (@tauri-apps/cli package).
 See the [CLI](https://tauri.studio/en/docs/api/config#tauri) section for more information.
 
 ### `yarn test`
 
-(React) Launches the test runner in the interactive watch mode.\
+(React) Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `yarn eject`
