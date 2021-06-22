@@ -10,7 +10,7 @@
 - [x] MacOS
 - [x] Linux
 
-with one sourcecode, powered by Tauri!
+powered by WebView with Tauri!
 
 This is a simple setup to get started with React and Tauri in Typescript. If you fancy Javascript, you can find it at [ReacTaur_JS](https://github.com/MPMcIntyre/ReacTaur_JS).
 
