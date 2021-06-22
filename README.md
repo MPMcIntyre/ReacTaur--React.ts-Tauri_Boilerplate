@@ -18,7 +18,7 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 # Notes
 
-Please note that the initial build and packaging take much longer than normal.
+Please note that the initial build and packaging very long. After the initial builds and packaging, things should move quicker.
 
 # Getting Started
 
