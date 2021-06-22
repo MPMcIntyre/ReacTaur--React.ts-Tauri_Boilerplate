@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <div className="title">
           <h1>ReacTaur</h1>
-          <h4>a React.js-Tauri boilerplate</h4>
+          <h4>a React-Tauri boilerplate</h4>
         </div>
         <img src={logo} className="App-logo" alt="logo" />
 
