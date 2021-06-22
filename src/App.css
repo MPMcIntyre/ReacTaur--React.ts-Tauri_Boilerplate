@@ -1,9 +1,26 @@
+.App li {
+  text-align: left;
+  font-size: 1rem;
+}
+
+.App h1,
+h3,
+h4,
+ul {
+  margin: 0;
+}
+
+.App h3,
+h4 {
+  margin-top: 1rem;
+}
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
