@@ -60,12 +60,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This does NOT include Tauri!
 
-### `yarn package"`
+### `yarn package`
 
 (React and Tauri) Runs the React build command then builds the Tauri app with the contents found in the './build/' folder.\
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
 
-### `yarn package:tauri"`
+### `yarn package:tauri`
 
 (Tauri) Builds the Tauri app with the contents found in the './build/' folder.\
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
