@@ -102,7 +102,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 Check out Tauri's dedicated list on [Tauri Patterns](https://tauri.studio/en/docs/usage/patterns/about-patterns). It is intuitive and explains the execution process of the app you might want to build.
 
-You can learn more abaot Tauri and the awesome tool they are developing at their [website](https://tauri.studio/en/docs/getting-started/intro)
+
+You can learn more about Tauri and the awesome tool they are developing at their [website](https://tauri.studio/en/docs/getting-started/intro)
 
 ## React.js
 
