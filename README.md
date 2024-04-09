@@ -1,3 +1,7 @@
+# !!DEPRICATED!!
+
+If you work with Tauri you would know that this repository is no longer needed. Tuari supplies [templates and examples](https://tauri.app/v1/guides/getting-started/setup/) to get started with your favourite front-ends. This was not so much the case in the early days of Tauri, and in any case, this was built without tooling like vite.
+
 <div align="center">
 <img src="https://github.com/MPMcIntyre/ReacTaurLogo/blob/main/ReacTaurLogo.png?raw=true" width="55%">
 </div>
